@@ -2,3 +2,6 @@
 Palaeontological Database
 
 Forthcoming: PETERS, KJ, F SALTRÉ, T FRIEDRICH, Z JACOBS, R WOOD, M MCDOWELL, S ULM, CJA BRADSHAW. FosSahul 2.0: an updated database for the Late Quaternary fossil records of Sahul. Scientific Data (in review)
+
+The R code included automates the age-reliability assessment from: RODRÍGUEZ-REY, M, S HERRANDO-PÉREZ, R GILLESPIE, Z JACOBS, F SALTRÉ, BW BROOK, GJ PRIDEAUX, RG ROBERTS, A COOPER, J ALROY, GH MILLER, MI BIRD, CN JOHNSON, N BEETON, CSM TURNEY, CJA BRADSHAW. 2015. Criteria for assessing the quality of Middle Pleistocene to Holocene vertebrate fossil ages. Quaternary Geochronology 30: 69-79. doi:10.1016/j.quageo.2015.08.002
+
