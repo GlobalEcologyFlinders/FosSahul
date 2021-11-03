@@ -1,6 +1,6 @@
 # <em>FosSahul</em>
 
-<img align="right" src="FosSahul_Logo.png" alt="FosSahul 2.0" width="300" style="margin-top: 20px">
+<img align="right" src="FosSahul_Logo.png" alt="FosSahul 2.0" width="500" style="margin-top: 20px">
 
 A comprehensive database of quality-rated fossil ages for Sahul’s Quaternary vertebrates
 
