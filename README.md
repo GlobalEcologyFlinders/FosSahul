@@ -1,4 +1,7 @@
 # <em>FosSahul</em>
+
+<img align="right" src="FosSahul_Logo.png" alt="FosSahul 2.0" width="300" style="margin-top: 20px">
+
 A comprehensive database of quality-rated fossil ages for Sahul’s Quaternary vertebrates
 
 PETERS, KJ, F SALTRÉ, T FRIEDRICH, Z JACOBS, R WOOD, M MCDOWELL, S ULM, CJA BRADSHAW. <a href="https://www.nature.com/articles/s41597-019-0267-3"><em>FosSahul</em> 2.0, an updated database for the Late Quaternary fossil records of Sahul</a>. <em>Scientific Data</em> 6:272
