@@ -21,3 +21,4 @@ TimeBins.csv: Time bins needed for the calculation of the biodiversity index.
 - <code>FosSahul_Data import.R</code>: Data import script necessary for the calculation of the biodiversity index.
 - <code>FosSahul_BiodiversityIndex_calculation.R</code>: Code for the calculation of the biodiversity index.
  
+[<img src="CabahFCP.jpg" alt="Centre of Excellence for Australian Biodiversity and Heritage" width="170" align="right" />](http://EpicAustralia.org.au)
